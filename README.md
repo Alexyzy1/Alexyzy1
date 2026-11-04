@@ -1,6 +1,4 @@
-<a href="https://github.com/Alexyzy1">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&width=460&lines=Hi+there+%F0%9F%91%8B+I'm+Alex;ML+%2F+LLM+enthusiast;building+knowledge-base+QA+systems" alt="Typing SVG" />
-</a>
+<img src="assets/banner.svg" alt="Hi there, I'm Alex" />
 
 <br>
 
@@ -28,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alexyzy1&show_icons=true&include_all_commits=true&rank_icon=percentile" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexyzy1&layout=compact&langs_count=8" alt="Top languages" />
+  <img src="assets/stats.svg" alt="GitHub stats" />
+  <img src="assets/languages.svg" alt="Top languages" />
 </p>
 
 <br>
@@ -40,9 +38,19 @@
 
 Enterprise-grade **RAG** knowledge-base Q&A system — multi-format document parsing (PDF / Word / Excel / OCR / ASR), hybrid retrieval with reranking, multi-turn conversations, RBAC & sharing. Built with **FastAPI · Milvus · MySQL · DeepSeek/Qwen/OpenAI**.
 
-<a href="https://github.com/Alexyzy1/knowledge-base-qa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alexyzy1&repo=knowledge-base-qa" alt="knowledge-base-qa repo card" />
-</a>
+<p>
+  <a href="https://github.com/Alexyzy1/knowledge-base-qa/stargazers">
+    <img src="https://img.shields.io/github/stars/Alexyzy1/knowledge-base-qa?style=social" alt="stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Alexyzy1/knowledge-base-qa/network/members">
+    <img src="https://img.shields.io/github/forks/Alexyzy1/knowledge-base-qa?style=social" alt="forks" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/Alexyzy1/knowledge-base-qa" alt="last commit" />
+  &nbsp;
+  <img src="https://img.shields.io/github/languages/top/Alexyzy1/knowledge-base-qa" alt="top language" />
+</p>
 
 <br>
 
