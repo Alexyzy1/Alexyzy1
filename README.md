@@ -36,7 +36,13 @@
 
 ## 🚀 Featured Project
 
-[**knowledge-base-qa**](https://github.com/Alexyzy1/knowledge-base-qa) — a knowledge-base question-answering system, built with Python and a web frontend.
+### [knowledge-base-qa](https://github.com/Alexyzy1/knowledge-base-qa)
+
+Enterprise-grade **RAG** knowledge-base Q&A system — multi-format document parsing (PDF / Word / Excel / OCR / ASR), hybrid retrieval with reranking, multi-turn conversations, RBAC & sharing. Built with **FastAPI · Milvus · MySQL · DeepSeek/Qwen/OpenAI**.
+
+<a href="https://github.com/Alexyzy1/knowledge-base-qa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alexyzy1&repo=knowledge-base-qa" alt="knowledge-base-qa repo card" />
+</a>
 
 <br>
 
